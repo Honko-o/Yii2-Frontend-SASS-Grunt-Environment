@@ -1,0 +1,23 @@
+{
+    "name": "web",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "bootstrap": "^5.0.1"
+    },
+    "devDependencies": {
+        "grunt": "^1.6.1",
+        "grunt-contrib-concat": "^2.1.0",
+        "grunt-contrib-cssmin": "^4.0.0",
+        "grunt-contrib-uglify": "^5.2.2",
+        "grunt-contrib-watch": "^1.1.0",
+        "grunt-dart-sass": "^2.0.1",
+        "sass": "^1.62.0"
+    }
+}

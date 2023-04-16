@@ -1,0 +1,38 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.app.motory.dealer",
+      "sha256_cert_fingerprints": [
+        "1C:6F:30:C9:54:27:A2:82:75:D9:9A:E8:D9:C8:C2:AB:E8:47:0F:85:64:AD:BC:57:21:34:F4:BA:7E:A3:66:BB"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.app.motory.dealer.debug",
+      "sha256_cert_fingerprints": [
+        "56:26:15:CE:27:85:7A:C4:AC:0A:C9:81:C3:37:5F:B1:BA:DF:78:FD:F7:B1:5C:99:B6:D9:4E:BA:31:F1:3A:73"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.app.motory.dealer.staging",
+      "sha256_cert_fingerprints": [
+        "56:26:15:CE:27:85:7A:C4:AC:0A:C9:81:C3:37:5F:B1:BA:DF:78:FD:F7:B1:5C:99:B6:D9:4E:BA:31:F1:3A:73"
+      ]
+    }
+  }
+]
